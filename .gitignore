@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/TNAChallange/.vs
+/TNAChallange/TNAChallange/bin/Debug/netcoreapp3.1
+/TNAChallange/TNAChallange/obj
+/TNAChallange/TNAChallangeConsole/bin/Debug/netcoreapp3.1
+/TNAChallange/TNAChallangeConsole/obj/Debug/netcoreapp3.1
+/TNAChallange/TNAChallangeConsole/obj
+/TNAChallange/TNAChallangeTests/bin/Debug/netcoreapp3.1
+/TNAChallange/TNAChallangeTests/obj
